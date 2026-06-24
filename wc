@@ -1,4 +1,4 @@
-#EXTM3U
+e#EXTM3U
 
 
 #EXTINF:-1 tvg-id="722" tvg-logo="https://i.ibb.co/1Jr3dq2C/IMG-6227.png" group-title="test" group-logo="https://iili.io/q9KNAxa.png",qiaz
@@ -50,7 +50,9 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
 
 
-#EXTINF:-1 tvg-id="TelemundoEast.us"  tvg-logo="https://i.ibb.co.com/nwLHk41/telemundo.png" group-title="test", TELEMUNDO
+#EXTINF:-1 tvg-id="TelemundoEast.us"  tvg-logo="https://i.ibb.co.com/nwLHk41/telemundo.png" group-title="test", TELEMUNDO x
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
