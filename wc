@@ -1,5 +1,64 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-id="722" tvg-logo="https://i.ibb.co/1Jr3dq2C/IMG-6227.png" group-title="test" group-logo="https://iili.io/q9KNAxa.png",qiaz
+https://edge01-alm.beetv.kz/bpk-token/2an@xioikaqnzbjbq0k1d1uyj2quayfsdscaxgct30aa/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn.m3u8
+
+#EXTINF:-1 tvg-id="722" tvg-logo="" group-title="test" group-logo="g",test13
+https://www.rtmpcdn.com/live/cctv5.m3u8
+https://www.rtmpcdn.com/live/amty.m3u8
+https://www.rtmpcdn.com/live/cctv5.m3u8
+https://www.rtmpcdn.com/live/gdty.m3u
+https://apxvf0ws91.yarncdn.live/live/hd-en-6MvZ6BDgTyo6rqNebr/playlist.m3u8
+https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="test", TUDN EN VIVO 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+https://live-atv-cdn.izzigo.tv/1/out/u/dash/TUDN-HD/default.mpd
+
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="test", TUDN us
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2722647f77b44824c432a3c4555830a2:1734befb82f4b438bd84195f6c212e7b
+https://a.00/1/out/u/dash/TUDN-HD/default.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="test",06 D SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_sQ4y-nD4B41UGIbDXzm4LqoBBDPfTlHAYQNyVtflg30JcIt5bbJw1aYfGbMb0NJNniQjqCCxI-IKIQpKMN2sqlbqpKKQ4uU0ERYj14vymrwigpm6dxErUsrKI9Tv1zu_FU2bKNLmFv5KRlbezgDshOgYfEdrhqoJ33PIsp1AiMxl5XDy5CFvgQWUlK6c/s1562/WORLD%20CUP%202026.png" group-title="test",06 D SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="TelemundoEast.us"  tvg-logo="https://i.ibb.co.com/nwLHk41/telemundo.png" group-title="test", TELEMUNDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+
+#EXTINF:-1 tvg-id="TelemundoEast.us"  tvg-logo="https://i.ibb.co.com/nwLHk41/telemundo.png" group-title="test", TELEMUNDO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="DSPORTS HD" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/main/Script/world_cup.png" group-title="FIFA WC 2026",tel
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -28,12 +87,6 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 group-title="🎉WORLD CUP🎉" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQjIV5SKCpFyJPoqsF3fJSchtJbxyJ6Pgl4qkNpaL_wA&s=10b",fx
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports1080p.m3u8
 
-
-TSN 1	!!a12a987fe725a40b6be95cd84b15f689
-TSN 2	!!daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-TSN 3	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd!!f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
-TSN 4	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd!!c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-TSN 5	https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd!!e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 
 
 
