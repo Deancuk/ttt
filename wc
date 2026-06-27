@@ -520,14 +520,14 @@ https://otte-qw.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/w0rehjjrwe/out/v
 #EXTINF:-1 group-title="Amazon",Fussball 2a 4k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3c8a5741edf5909991bf27135ecf8c3:b7b71a7b99a45b8ebfb3c7ac086ffb09
+#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
 
 
 #EXTINF:-1 group-title="Amazon",Fussball 2b 4k
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b2e6c4c0b89655b7bbf2e4c0f4e42a1d:8a3721306907ffef2f9525f0cab9bc0a
+#KODIPROP:inputstream.adaptive.license_key=ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
 
 #EXTINF:-1 group-title="Amazon",Fussball 2c 4k
@@ -541,6 +541,29 @@ https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
+
+
+#EXTINF:-1 group-title="Amazon",peacock
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00225679b2b7626c280fad4fb3b8d666:f63ba0409785da3920a11e3b7215ed58
+https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-west-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021414-723272-49123a40ec8)/master_2hr.mpd?c3.ri=6a398ae1_Q1ZYMDc_1_Q0xPVURGUk9OVA_972a1d6cdac3%3A0&aws.sessionId=fd01558b-5ca2-47a3-ae6b-4353aa8a0640&ck=eyIwMDIyNTY3OWIyYjc2MjZjMjgwZmFkNGZiM2I4ZDY2NiI6ImY2M2JhMDQwOTc4NWRhMzkyMGExMWUzYjcyMTVlZDU4In0%3D
+
+
+
+#EXTINF:-1 group-title="Amazon",unite 8 eng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=156df45e915859b5bcb0586c4edc8da8:f2032a0a2ff59a2c0f2c609bf399e1d1
+https://sundirectgo-live.pc.cdn.bitgravity.com/svchd14/dth.mpd
+
+
+
+#EXTINF:-1 group-title="Amazon",unite 8 hin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b90a8e3b967f0a7505bc0e925853c62d:def40d621397cf5fedb93884cf7eb3ef
+https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
 
 
 #EXTINF:-1 group-title="Amazon",WCTV
